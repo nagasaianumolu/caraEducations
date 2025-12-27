@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://nagasaianumolu.github.io/caraEducation",
+  "homepage": "https://nagasaianumolu.github.io/caraEducations",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
